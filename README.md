@@ -7,6 +7,7 @@ This is a simple example of how to internationalize and localize your Django app
 Refer to the:  
 * [W3C Internationalization](https://www.w3.org/International/questions/qa-i18n)
 * [TestDriven.io Multiple Languages In Django](https://testdriven.io/blog/multiple-languages-in-django/).
+* [Teplate Image](https://lokalise.com/blog/software-internationalization/)
 
 
 ## Objectives
